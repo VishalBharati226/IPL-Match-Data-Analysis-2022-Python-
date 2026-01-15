@@ -1,4 +1,4 @@
-# IPL-Match-Data-Analysis-2022-Python-
+# IPL-Match-Data-Analysis-2022-Python
 Analyzed Indian Premier League (IPL)  2022 match data using Python
 
 Analyzed Indian Premier League (IPL) match data using Python to uncover team performance patterns and match-winning insights. Performed data cleaning, transformation, and exploratory data analysis (EDA) using Pandas and NumPy. Visualized key metrics such as match winners, victory margins (runs/wickets), and team dominance using Matplotlib and Seaborn with professional color palettes.
