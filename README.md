@@ -5,10 +5,10 @@ Analyzed Indian Premier League (IPL) match data using Python to uncover team per
 
 Implemented groupby aggregations, sorting, and filtering to evaluate teams with the highest total winning margins and match outcomes based on runs or wickets. Built insightful visualizations (horizontal bar charts) to clearly rank team performances and support data-driven conclusions.
 
-Tools & Skills Used:
+Tools & Skills Used:-
 Python, Pandas, NumPy, Matplotlib, Seaborn, Data Cleaning, EDA, Data Visualization
 
-Key Insights:
+Key Insights:-
 
 Identified top-performing teams based on total run margins
 
